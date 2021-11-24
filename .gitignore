@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+#Visual Studio
+vkTetris/.vs
+
+# Binaries
+vkTetris/Debug
+vkTetris/x64
